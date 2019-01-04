@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AriaLib
 {
-    class Program
+    class Consumer
     {
         static void Main(string[] args)
         {
