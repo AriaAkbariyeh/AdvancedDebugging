@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PerformanceIssues")]
+[assembly: AssemblyTitle("OOM01")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PerformanceIssues")]
+[assembly: AssemblyProduct("OOM01")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4d9e9579-be50-4e8c-adc6-7e7cb5078d41")]
+[assembly: Guid("d8bd8c58-1d0a-43ca-ae10-71598ba2dca7")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,19 +1,17 @@
-﻿using SampleClasses;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 
+namespace OOM01
 {
     class Program
     {
-
         static void Main(string[] args)
         {
-            MOOM m = new MOOM();
-            m.Run();
+            OOM01 instance = new OOM01();
+            instance.Run();
         }
     }
 }

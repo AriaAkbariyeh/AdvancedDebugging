@@ -6,9 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace PerformanceIssues
+namespace OOM01
 {
-    class MOOM
+    public class OOM01
     {
         public class Person
         {
