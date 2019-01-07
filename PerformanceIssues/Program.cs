@@ -1,18 +1,19 @@
-﻿using System;
+﻿using SampleClasses;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PerformanceIssues
+namespace 
 {
-    class Consumer
+    class Program
     {
 
         static void Main(string[] args)
         {
-            MOOM moom = new MOOM();
-            moom.Run();
+            MOOM m = new MOOM();
+            m.Run();
         }
     }
 }
