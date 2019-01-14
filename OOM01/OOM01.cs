@@ -26,8 +26,9 @@ namespace OOM01
                 Age = age;
             }
         }
-        public void Run()
+        public void Run(int num)
         {
+            int justANumber = num;
             Console.WriteLine("Press any keys and check the memory usage of this application, why is it increasing ? ");
             Console.ReadLine();
 

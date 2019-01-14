@@ -10,8 +10,9 @@ namespace OOM01
     {
         static void Main(string[] args)
         {
+            int justANumber = 10;
             OOM01 instance = new OOM01();
-            instance.Run();
+            instance.Run(justANumber);
         }
     }
 }
